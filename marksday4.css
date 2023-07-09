@@ -1,0 +1,13 @@
+function myfuncavg(){
+     const val1=document.getElementById("marks1").value
+     const val2=document.getElementById("marks2").value
+     const val3=document.getElementById("marks3").value
+     const avg=(val1+val2+val3)/3)
+
+     if(avg>90){
+       document.getElementById('dislpay').innerText="Excellent"
+       }
+  else{
+    
+    document.getElementById('dislpay').innerText="You Need To Improve"
+    }
