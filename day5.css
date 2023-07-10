@@ -1,0 +1,11 @@
+body {
+    margin: 20px;
+}
+
+#navbar {
+    background-color: yellow;
+    border: solid red 1px;
+    border-radius: 10px;
+    display:sticky;
+   width:0px;
+}
