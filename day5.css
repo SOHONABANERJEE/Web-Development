@@ -6,6 +6,18 @@ body {
     background-color: yellow;
     border: solid red 1px;
     border-radius: 10px;
-    display:sticky;
-   width:0px;
+    height: 100px;
+    display:flex;
+    position: sticky;
+    top:0;
+}
+h1{
+    text-align: center;
+}
+.name{
+    padding-left: 20px;
+    margin:20px;
+}
+#searches{
+    height:30px;
 }
