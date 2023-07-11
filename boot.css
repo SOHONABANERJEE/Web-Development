@@ -1,0 +1,26 @@
+body {
+  margin: 20px;
+}
+#head{
+  background-image:https://www.eyeem.com/p/148731972;
+  width:100%;
+  margin-color:yellow;
+  margin-width:2px;
+  border-radius:10px;
+  position:sticky;
+  top:1px;
+  }
+#main{
+  background-image:
+}
+.nav-item{
+  border:5px;
+  border-color:white;
+  background color:white;
+}
+.nav-item dropdown{
+   border:5px;
+  border-color:white;
+  background color:white;
+}
+  
